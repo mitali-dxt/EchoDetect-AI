@@ -1,0 +1,12 @@
+rake-nltk
+flask
+nltk
+transformers
+scipy
+bs4
+pandas
+pytrends
+scikit-learn
+langchain
+langchain-community
+python-dotenv
