@@ -17,6 +17,11 @@ their store.
 ## Description
 Our solution leverages advanced language AI and large language models (LLMs) to detect fraudulent or suspicious product ratings and reviews on Amazon, aiming to analyze sentiment, identify patterns, and protect customer trust. We create interactive dashboards for sellers to gain insights into product performance, pricing, durability, sensitivity, and customer sentiment. Additionally, we automate counterfeit detection throughout the product lifecycle using advanced image and video analysis, significantly reducing manual input. By scrutinizing product images and videos uploaded by sellers, our AI models ensure counterfeit items are detected and rejected before listing. During the return process, our solution analyzes images, videos, and product information to verify the authenticity of returned products, preventing counterfeit items from re-entering the market. This comprehensive approach enhances the integrity and reliability of the Amazon marketplace.
 
+
+## Demo Video 🔗
+
+https://drive.google.com/file/d/10TfSSANb7TDXGUqea1X2U8UCpPn0jSnn/view?usp=sharing
+
 ## Block-Diagrams
 
 Seller Dashboard
